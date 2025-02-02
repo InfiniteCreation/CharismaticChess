@@ -1,4 +1,4 @@
-# CharismaticChess
+# LeadersChess
 *C#, sql-server, api*
 ## Data Stored
 There will be a lot of data stored, and each one will be used in different ways. The biggest part of
