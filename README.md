@@ -56,3 +56,34 @@ an option and removed from possible legal moves.
 - As a military instructor
 - I want something that can test how a soldier is progressing with their training in being able to function in dire staits and lead under pressure
 - So that I can further train and help my men grow
+## Use Cases
+### First
+- Military Instructor Initial Inspection
+- The soldiers will play a game of Leaders Chess
+- This will be part of their initial examination
+- During the game how they operate under dire straits and how they lead in such circumstances will be noted
+- The results will be used to determine the best training and initial position
+### Second
+- Military Instructor Training and Assessment
+- The soldiers will play a game of Leaders Chess
+- This will be part of a reexamination to assess growth
+- During the game how they operate under dire straits and how they lead in such circumstances will be reassessed
+- The results will be used to determine how their training is progressing and what might need to be changed for further training
+### Third
+- Candidate Screener for Leadership position
+- The candidates will play a game of Leaders Chess
+- This will be part of their screening process
+- During the game how they strategize and lead will be assessed in relation to the charisma score they get after assessment for the game
+- The results will be used to screen the candidates and determine which ones are more suitable for a leadership position
+### Fourth
+- Player seeking an adeventurous twist
+- The players will play a game of Leaders Chess
+- This will give them something new and adventurous to play
+- During the game they will have fun playing the game of chess with the added elements
+- The results will be a player that will have fun playing a new thrilling game that takes strategy to a new level
+### Fifth
+- Player seeking to play something more realistic
+- The players will play a game of Leaders Chess
+- This will give them a more realistic simulated battle between kings (players)
+- During the game they will be able to experience how it is to lead their pieces in a more realistic battle with their openents
+- The result will be a more realistic battle of chess that is more realistic to how it would be in war
