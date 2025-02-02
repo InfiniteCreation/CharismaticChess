@@ -35,3 +35,24 @@ leadership in an army being more loyal compared to the foot soldiers. However, f
 gets closer to the other side its loyalty rating will increase because of its proximity to the finish line
 for promotion. If the loyalty is below a certain rating, then sacrifice plays with that piece will not be
 an option and removed from possible legal moves.
+## User Stories
+### First
+- As a player
+- I want something to spice up the traditional game of chess
+- So that I can enjoy playing a game of chess with a fresh twist
+### Second
+- As a candidate screener
+- I want something that can demonstrate a persons critical thinking and their ability to lead
+- So that I can successfully screen the applicants and find the best ones for the role
+### Third
+- As a military instructor
+- I want something that can test a soldiers critical thinking, their ability to lead, and their ability to function in dire straits
+- So that I can determine what further training they need and where best to place them
+### Fourth
+- As a player
+- I want something that is more realistic in regards to war
+- So that I can experience playing a game of chess realistically how it would play out in a battlefield
+### Fifth
+- As a military instructor
+- I want something that can test how a soldier is progressing with their training in being able to function in dire staits and lead under pressure
+- So that I can further train and help my men grow
