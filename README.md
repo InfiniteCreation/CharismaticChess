@@ -1,11 +1,11 @@
 # LeadersChess
 *C#, sql-server, api*
 ## Table of Contents
-* [Data Stored]
-* [Data Source and Usage]
-*  [User Stories]
-*  [Use Cases]
-*  [Table of Requirements](##Table_of_Requirements)
+* [Data Stored](#data-stored)
+* [Data Source and Usage](#data-source-and-usage)
+*  [User Stories](#user-stories)
+*  [Use Cases](#use-cases)
+*  [Table of Requirements](#table-of-requirements)
 ## Data Stored
 There will be a lot of data stored, and each one will be used in different ways. The biggest part of
 the data will come from the chess game itself. There will have to be data stored that distinguishes
