@@ -5,7 +5,7 @@
 * [Data Source and Usage]
 *  [User Stories]
 *  [Use Cases]
-*  [Table of Requirements](##TableofRequirements)
+*  [Table of Requirements](##Table_of_Requirements)
 ## Data Stored
 There will be a lot of data stored, and each one will be used in different ways. The biggest part of
 the data will come from the chess game itself. There will have to be data stored that distinguishes
