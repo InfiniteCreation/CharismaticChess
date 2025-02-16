@@ -88,7 +88,7 @@ an option and removed from possible legal moves.
 - During the game they will be able to experience how it is to lead their pieces in a more realistic battle with their openents
 - The result will be a more realistic battle of chess that is more realistic to how it would be in war
 ## Requirements
-ID | Requirements
+ID | Table of Requirements
 :---:|:---:
 1 | The software shall allow the user to interact with a UI that controls the movement of the chess pieces. The view will display the chess pieces of both players as well as the timer for both players if applicable.
 2 | The software shall allow the user to interact with a UI to select whether they want a timer for their game or not. The view will display a menu with buttons that the user can interact with to make their choice.
