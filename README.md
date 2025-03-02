@@ -104,4 +104,6 @@ ID | Requirements
 5 | The software shall flash a notification when the user tries to make a sacrifice play but they can't because their charisma level is too low. The view shall contain a dimmed view of the game in the background with a big notification in the foreground that will tell the user to click to continue.
 ## ERD
 ![Leader'sChessERB](https://github.com/user-attachments/assets/645ffe05-e569-4bf4-9ce1-6045d3d7e4ce)
+## UML
+![Leader'sChessUML](https://github.com/user-attachments/assets/6251311d-a7f9-4823-a497-ae234bb8d048)
 
