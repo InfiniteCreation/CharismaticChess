@@ -101,3 +101,5 @@ ID | Requirements
 3 | The software shall allow the user to interact with a UI to complete a questionnaire that will determine the charisma level of the player. The view will consist of text and some form of selection option like a radio button or a checklist.
 4 | The software shall allow the user to see the possible moves of a piece upon clicking on it. The view will display the chess pieces of both players, the timer for both players if applicable, and the highlighted squares on the board that show the possible moves for the piece clicked.
 5 | The software shall flash a notification when the user tries to make a sacrifice play but they can't because their charisma level is too low. The view shall contain a dimmed view of the game in the background with a big notification in the foreground that will tell the user to click to continue.
+## ERD
+![Leader'sChessERB](https://github.com/user-attachments/assets/d055e768-3025-474d-847b-d4d75ae640f1)
