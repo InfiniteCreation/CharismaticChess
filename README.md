@@ -7,6 +7,7 @@
 *  [Use Cases](#use-cases)
 *  [Table of Requirements](#table-of-requirements)
 *  [ERD](#erd)
+*  [UML](#uml)
 ## Data Stored
 There will be a lot of data stored, and each one will be used in different ways. The biggest part of
 the data will come from the chess game itself. There will have to be data stored that distinguishes
