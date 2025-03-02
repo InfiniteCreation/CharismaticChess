@@ -106,5 +106,4 @@ ID | Requirements
 ## ERD
 ![Leader'sChessERB](https://github.com/user-attachments/assets/645ffe05-e569-4bf4-9ce1-6045d3d7e4ce)
 ## UML
-![Leader'sChessUML](https://github.com/user-attachments/assets/6251311d-a7f9-4823-a497-ae234bb8d048)
-
+![Leader'sChessUML (1)](https://github.com/user-attachments/assets/488435c4-f714-4fb5-a514-80a71c318578)
